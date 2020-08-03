@@ -270,7 +270,6 @@
 				TargetAttributes = {
 					FC56DEB91EE98AC7001ACE3F = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 2Y3274NQLX;
 						LastSwiftMigration = 1140;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -281,7 +280,6 @@
 					};
 					FC56DECF1EE98B3A001ACE3F = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 2Y3274NQLX;
 						LastSwiftMigration = 1140;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -602,7 +600,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2Y3274NQLX;
+				DEVELOPMENT_TEAM = KSR6A94B7P;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = ThinkpadAssistant/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -631,7 +629,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2Y3274NQLX;
+				DEVELOPMENT_TEAM = KSR6A94B7P;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = ThinkpadAssistant/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -657,7 +655,7 @@
 				CODE_SIGN_ENTITLEMENTS = AutoLaunchHelper/AutoLaunchHelper.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2Y3274NQLX;
+				DEVELOPMENT_TEAM = KSR6A94B7P;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = AutoLaunchHelper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -681,7 +679,7 @@
 				CODE_SIGN_ENTITLEMENTS = AutoLaunchHelper/AutoLaunchHelper.entitlements;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2Y3274NQLX;
+				DEVELOPMENT_TEAM = KSR6A94B7P;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = AutoLaunchHelper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
