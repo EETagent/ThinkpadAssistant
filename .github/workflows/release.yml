@@ -62,7 +62,7 @@ jobs:
       - name: Generate Release Notes
         run: |
           echo '### The latest changes are:' >> ReleaseNotes.md
-          git log --oneline $(git describe --tags --abbrev=0 @^)..@ | sed '/^$/d' >> ReleaseNotes.md
+          git log --oneline $(git describe --tags --abbrev=0 HEAD^)..HEAD | sed '/^$/d' >> ReleaseNotes.md
 
       - name: Create Release
         id: create_release
