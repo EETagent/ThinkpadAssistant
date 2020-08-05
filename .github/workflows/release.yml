@@ -22,10 +22,10 @@ jobs:
       # Download necessary software  and install CocoaPods
       - name: Prepare Env
         run: |
-	  git config --global user.name EETagent
+          git config --global user.name EETagent
           git config --global user.email vojta.jungmann@gmail.com
           
-	  brew install graphicsmagick imagemagick
+          brew install graphicsmagick imagemagick
           npm install --global create-dmg
 
           pod install
